@@ -1,0 +1,13 @@
+{
+  "name": "Bubble Up",
+  "hint": "Bubbles carry the candy upward. Pip is waiting above!",
+  "candy": { "x": 500, "y": 950 },
+  "pip": { "x": 500, "y": 400 },
+  "ropes": [{ "anchor": { "x": 500, "y": 770 } }],
+  "bubbles": [{ "pos": { "x": 500, "y": 1070 } }],
+  "stars": [
+    { "x": 500, "y": 900 },
+    { "x": 500, "y": 700 },
+    { "x": 500, "y": 550 }
+  ]
+}

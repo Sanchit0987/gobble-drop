@@ -1,0 +1,14 @@
+{
+  "name": "Thorn Garden",
+  "hint": "Bubble over the thorns — pop it right above Pip!",
+  "candy": { "x": 250, "y": 900 },
+  "pip": { "x": 250, "y": 1250 },
+  "ropes": [{ "anchor": { "x": 250, "y": 720 } }],
+  "bubbles": [{ "pos": { "x": 250, "y": 1060 } }],
+  "spikes": [{ "a": { "x": 430, "y": 1250 }, "b": { "x": 900, "y": 1250 } }],
+  "stars": [
+    { "x": 250, "y": 1010 },
+    { "x": 250, "y": 640 },
+    { "x": 250, "y": 420 }
+  ]
+}

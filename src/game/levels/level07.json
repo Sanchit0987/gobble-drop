@@ -1,0 +1,13 @@
+{
+  "name": "Sharp Welcome",
+  "hint": "Spikes shatter the candy. Drop around them!",
+  "candy": { "x": 300, "y": 350 },
+  "pip": { "x": 300, "y": 1150 },
+  "ropes": [{ "anchor": { "x": 300, "y": 170 } }],
+  "spikes": [{ "a": { "x": 520, "y": 620 }, "b": { "x": 900, "y": 620 } }],
+  "stars": [
+    { "x": 300, "y": 560 },
+    { "x": 300, "y": 780 },
+    { "x": 300, "y": 1000 }
+  ]
+}

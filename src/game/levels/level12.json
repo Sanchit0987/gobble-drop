@@ -1,0 +1,17 @@
+{
+  "name": "Crosswind Canyon",
+  "hint": "Chain two puffs across the spike pit.",
+  "candy": { "x": 180, "y": 500 },
+  "pip": { "x": 840, "y": 1100 },
+  "ropes": [{ "anchor": { "x": 180, "y": 280 } }],
+  "airCushions": [
+    { "pos": { "x": 110, "y": 900 }, "angleDeg": 0, "power": 1.8 },
+    { "pos": { "x": 470, "y": 1190 }, "angleDeg": 40, "power": 2.2 }
+  ],
+  "spikes": [{ "a": { "x": 330, "y": 1340 }, "b": { "x": 620, "y": 1340 } }],
+  "stars": [
+    { "x": 300, "y": 800 },
+    { "x": 450, "y": 1000 },
+    { "x": 700, "y": 1060 }
+  ]
+}

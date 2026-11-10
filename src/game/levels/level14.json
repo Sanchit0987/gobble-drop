@@ -1,0 +1,18 @@
+{
+  "name": "Ferry Service",
+  "hint": "Ride the moving anchor over the thorns, then drop in.",
+  "candy": { "x": 200, "y": 460 },
+  "pip": { "x": 800, "y": 1140 },
+  "ropes": [
+    {
+      "anchor": { "x": 200, "y": 200 },
+      "moving": { "to": { "x": 800, "y": 200 }, "period": 5 }
+    }
+  ],
+  "spikes": [{ "a": { "x": 300, "y": 900 }, "b": { "x": 640, "y": 900 } }],
+  "stars": [
+    { "x": 390, "y": 560 },
+    { "x": 590, "y": 560 },
+    { "x": 800, "y": 860 }
+  ]
+}

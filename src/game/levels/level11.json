@@ -1,0 +1,14 @@
+{
+  "name": "Updraft",
+  "hint": "Puffs can push upward too.",
+  "candy": { "x": 500, "y": 600 },
+  "pip": { "x": 500, "y": 330 },
+  "ropes": [{ "anchor": { "x": 500, "y": 420 } }],
+  "airCushions": [{ "pos": { "x": 500, "y": 1230 }, "angleDeg": 90, "power": 2.6 }],
+  "spikes": [{ "a": { "x": 120, "y": 1340 }, "b": { "x": 880, "y": 1340 } }],
+  "stars": [
+    { "x": 500, "y": 800 },
+    { "x": 500, "y": 1000 },
+    { "x": 500, "y": 1160 }
+  ]
+}

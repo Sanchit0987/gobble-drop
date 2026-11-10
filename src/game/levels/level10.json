@@ -1,0 +1,13 @@
+{
+  "name": "Gust Works",
+  "hint": "Tap the air cushion to puff the candy sideways!",
+  "candy": { "x": 300, "y": 400 },
+  "pip": { "x": 600, "y": 1150 },
+  "ropes": [{ "anchor": { "x": 300, "y": 180 } }],
+  "airCushions": [{ "pos": { "x": 160, "y": 600 }, "angleDeg": 0 }],
+  "stars": [
+    { "x": 390, "y": 520 },
+    { "x": 490, "y": 740 },
+    { "x": 560, "y": 980 }
+  ]
+}

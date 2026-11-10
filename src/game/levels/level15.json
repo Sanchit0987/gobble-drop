@@ -1,0 +1,27 @@
+{
+  "name": "Grand Gobble",
+  "hint": "Everything at once. Feed Pip one last time!",
+  "candy": { "x": 500, "y": 400 },
+  "pip": { "x": 500, "y": 1200 },
+  "ropes": [
+    {
+      "anchor": { "x": 220, "y": 150 },
+      "moving": { "to": { "x": 420, "y": 150 }, "period": 3.5 }
+    },
+    {
+      "anchor": { "x": 780, "y": 150 },
+      "moving": { "to": { "x": 580, "y": 150 }, "period": 3.5, "phase": 0.5 }
+    }
+  ],
+  "bubbles": [{ "pos": { "x": 170, "y": 760 } }],
+  "airCushions": [{ "pos": { "x": 870, "y": 620 }, "angleDeg": 180 }],
+  "spikes": [
+    { "a": { "x": 120, "y": 1020 }, "b": { "x": 330, "y": 1020 } },
+    { "a": { "x": 670, "y": 1020 }, "b": { "x": 880, "y": 1020 } }
+  ],
+  "stars": [
+    { "x": 170, "y": 560 },
+    { "x": 500, "y": 700 },
+    { "x": 500, "y": 980 }
+  ]
+}

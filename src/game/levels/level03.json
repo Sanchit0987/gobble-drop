@@ -1,0 +1,15 @@
+{
+  "name": "Two Lines",
+  "hint": "One swipe can slice through more than one rope.",
+  "candy": { "x": 500, "y": 430 },
+  "pip": { "x": 500, "y": 1150 },
+  "ropes": [
+    { "anchor": { "x": 260, "y": 160 } },
+    { "anchor": { "x": 740, "y": 160 } }
+  ],
+  "stars": [
+    { "x": 500, "y": 620 },
+    { "x": 500, "y": 820 },
+    { "x": 500, "y": 1010 }
+  ]
+}

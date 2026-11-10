@@ -1,0 +1,17 @@
+{
+  "name": "Pendulum Post",
+  "hint": "This anchor slides on its track. Wait for the right spot!",
+  "candy": { "x": 500, "y": 420 },
+  "pip": { "x": 860, "y": 1140 },
+  "ropes": [
+    {
+      "anchor": { "x": 260, "y": 160 },
+      "moving": { "to": { "x": 740, "y": 160 }, "period": 4 }
+    }
+  ],
+  "stars": [
+    { "x": 620, "y": 600 },
+    { "x": 740, "y": 860 },
+    { "x": 830, "y": 1040 }
+  ]
+}

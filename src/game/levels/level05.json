@@ -1,0 +1,13 @@
+{
+  "name": "Swing and Soar",
+  "hint": "Fling the candy into the bubble, then pop it by Pip.",
+  "candy": { "x": 420, "y": 520 },
+  "pip": { "x": 470, "y": 330 },
+  "ropes": [{ "anchor": { "x": 260, "y": 140 } }],
+  "bubbles": [{ "pos": { "x": 460, "y": 900 } }],
+  "stars": [
+    { "x": 420, "y": 700 },
+    { "x": 455, "y": 830 },
+    { "x": 500, "y": 560 }
+  ]
+}

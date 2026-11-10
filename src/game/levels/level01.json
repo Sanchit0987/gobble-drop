@@ -1,0 +1,12 @@
+{
+  "name": "First Bite",
+  "hint": "Swipe across the rope to cut it!",
+  "candy": { "x": 500, "y": 320 },
+  "pip": { "x": 500, "y": 1150 },
+  "ropes": [{ "anchor": { "x": 500, "y": 140 } }],
+  "stars": [
+    { "x": 500, "y": 520 },
+    { "x": 500, "y": 760 },
+    { "x": 500, "y": 990 }
+  ]
+}

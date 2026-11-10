@@ -1,0 +1,12 @@
+{
+  "name": "Swing Shot",
+  "hint": "Let the candy swing, then cut at the right moment.",
+  "candy": { "x": 430, "y": 430 },
+  "pip": { "x": 740, "y": 1120 },
+  "ropes": [{ "anchor": { "x": 680, "y": 140 } }],
+  "stars": [
+    { "x": 560, "y": 620 },
+    { "x": 680, "y": 780 },
+    { "x": 730, "y": 940 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pop Drop",
+  "hint": "Tap a bubble to pop it — don't let the candy float away!",
+  "candy": { "x": 500, "y": 350 },
+  "pip": { "x": 500, "y": 1150 },
+  "ropes": [{ "anchor": { "x": 500, "y": 170 } }],
+  "bubbles": [{ "pos": { "x": 500, "y": 560 } }],
+  "stars": [
+    { "x": 500, "y": 700 },
+    { "x": 500, "y": 880 },
+    { "x": 500, "y": 1050 }
+  ]
+}
